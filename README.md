@@ -1,18 +1,25 @@
-# Hi there, I'm Andreas Widjaya! 👋
+## 👋 Hi there, I'm Andreas Widjaya!
 Experienced in web and mobile development, API design, and microservices with strong skills in algorithms and business logic implementation. Adaptable to agile methodologies like Scrum and Waterfall, thriving in fast-paced environments. Growth-oriented, leveraging emerging technologies like AI for impactful solutions. A practitioner who values execution, critical thinking, and ethics. Flexible, adaptive, and committed to delivering results as a reliable team player.
 
-Now aiming to expand expertise by contributing to Web3 and AI-based projects, focusing on future-oriented development and innovative solutions. Dedicated to continuous self-improvement and staying at the forefront of emerging technologies to create meaningful impact.
+Now, I aim to expand my expertise by contributing to Web3 and AI-based projects, focusing on future-oriented development and innovative solutions. Dedicated to continuous self-improvement and staying at the forefront of emerging technologies to create meaningful impact.
 
-## 🚀 Tech Stack
-### 🖥️ Languages
+---
+
+<!--- ## 🚀 Primary Tech Stack --->
+### 🖥️ **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+<!---
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+--->
 
+---
+
+<!---
 ## 🛠️ Frameworks / Libraries
 ### Backend Frameworks:
 #### Node.js Ecosystem: 
@@ -144,8 +151,17 @@ Now aiming to expand expertise by contributing to Web3 and AI-based projects, fo
 ![Midtrans](https://img.shields.io/badge/Midtrans-F57D00?style=for-the-badge&logo=midtrans&logoColor=white)
 ![Damcorp](https://img.shields.io/badge/Damcorp-FFBA00?style=for-the-badge&logo=damcorp&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-%23032E41.svg?style=for-the-badge&logo=openapi&logoColor=white)
+--->
+### 💡 **Why I'm a Great Fit for Your Team**  
+1. **Flexible and Adaptive Team Player**: I excel in dynamic environments, quickly adapting to new technologies and frameworks while maintaining a collaborative approach. My ability to pivot and support team goals ensures seamless integration and productivity in ever-changing scenarios.
 
-##  Connect with Me
+2. **Structured Problem Solver with a Business-First Mindset**: I prioritize understanding business needs and translating them into scalable, maintainable technical solutions. My structured approach ensures that every solution is well-documented, aligned with organizational goals, and delivers measurable impact.
+
+3. **Collaborative and Reliable Team Member**: I thrive in team settings, fostering open communication and collaboration. My commitment to structured processes and thorough documentation ensures clarity, efficiency, and long-term success for both the team and the projects we deliver.
+
+---
+
+### 🤝 **Connect with Me**
 #### Click on the icons below to connect with me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281310889887)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-widjaya-88b161170)
@@ -165,4 +181,5 @@ Now aiming to expand expertise by contributing to Web3 and AI-based projects, fo
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
 --->
+
 Looking forward to collaborating on exciting projects and pushing the boundaries of what's possible in tech!
